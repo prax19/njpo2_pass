@@ -1,0 +1,3 @@
+Szymon,Zielinski,21,Employee,m
+Patryk,Pirog,23,Manager,m
+Jan,Kowalski,28,Employee,m
